@@ -31,7 +31,7 @@ Hyperparameter tuning was performed using **GridSearchCV** to optimize the model
 ## Installation
 To run this project locally, follow these steps:
 Clone the repository
-   git clone https://github.com/Waseem2212/House_Price_Prediction
+git clone https://github.com/Waseem2212/House_Price_Prediction
    
 ## Results
 - The KNeighbors Regressor achieved a 99% accuracy score after hyperparameter tuning.
